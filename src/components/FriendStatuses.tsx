@@ -55,7 +55,9 @@ function FriendStatuses(): JSX.Element {
         />
         <StatusItem
           username={"Jack"}
-          content={"antasizing about jack drawing naked people mmmmmmmmmmmmm..... naked people."}
+          content={
+            "antasizing about jack drawing naked people mmmmmmmmmmmmm..... naked people."
+          }
           emoji={"◻️"}
           timeAgo={{ n: 21, unit: "hours" }}
         />
